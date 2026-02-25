@@ -1,4 +1,4 @@
-[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
+[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo+Ladino)](https://github.com/DAlejandroCl)
 [![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Frontend+Engineer+%7C+Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
 
 <p align="center">
@@ -83,16 +83,49 @@ Proposes a holistic security framework for financial mobile applications in Colo
     </tr>
   </thead>
   <tbody>
+    <!-- Row 1: Description -->
     <tr>
-      <td valign="top" align="center">
+      <td align="center" valign="top">
         <br/>
         Multi-page app with React Router &amp; Zustand (Slice Pattern). Integrates TheCocktailDB API with Zod runtime validation and multi-layer testing (unit, integration, e2e, a11y).
         <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        Real-time weather app via OpenWeatherMap API with Axios. Features Zod validation, custom hooks, modular architecture and responsive UI.
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        Calorie tracking app with <code>useReducer</code> for centralized state, <code>useMemo</code> for performance optimization and localStorage persistence.
+        <br/><br/>
+      </td>
+    </tr>
+    <!-- Row 2: Stack icons -->
+    <tr>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
         <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
         <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
-        <br/><br/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+      </td>
+    </tr>
+    <!-- Row 3: Badges -->
+    <tr>
+      <td align="center">
+        <br/>
         <a href="https://github.com/DAlejandroCl/Cocktail-Lab">
           <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
         </a>
@@ -102,15 +135,8 @@ Proposes a holistic security framework for financial mobile applications in Colo
         </a>
         <br/><br/>
       </td>
-      <td valign="top" align="center">
+      <td align="center">
         <br/>
-        Real-time weather app via OpenWeatherMap API with Axios. Features Zod validation, custom hooks, modular architecture and responsive UI.
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
-        <br/><br/>
         <a href="https://github.com/DAlejandroCl/Weather-finder">
           <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
         </a>
@@ -120,15 +146,8 @@ Proposes a holistic security framework for financial mobile applications in Colo
         </a>
         <br/><br/>
       </td>
-      <td valign="top" align="center">
+      <td align="center">
         <br/>
-        Calorie tracking app with <code>useReducer</code> for centralized state, <code>useMemo</code> for performance optimization and localStorage persistence.
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
-        <br/><br/>
         <a href="https://github.com/DAlejandroCl/Calorie-tracker">
           <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
         </a>
@@ -148,6 +167,8 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&theme=github_dark&hide_border=false&border_radius=10&layout=compact&langs_count=6&border_color=0e75b6&cache_seconds=1800" height="160"/>
 </p>
 
 ---
