@@ -41,13 +41,9 @@ I have developed multi-view applications using React Router, integrated and docu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" style="vertical-align:middle;" />
-  <svg height="32" width="2" style="vertical-align:middle; margin:0 10px;">
-    <line x1="0" y1="0" x2="0" y2="32" style="stroke:#000;stroke-width:2" />
-  </svg>
+  <span style="display:inline-block; height:32px; border-left:1px solid #000; margin:0 10px;"></span>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" style="vertical-align:middle;" />
-  <svg height="32" width="2" style="vertical-align:middle; margin:0 10px;">
-    <line x1="0" y1="0" x2="0" y2="32" style="stroke:#000;stroke-width:2" />
-  </svg>
+  <span style="display:inline-block; height:32px; border-left:1px solid #000; margin:0 10px;"></span>
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" style="vertical-align:middle;" />
 </p>
 
