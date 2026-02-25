@@ -41,7 +41,7 @@ I have developed multi-view applications using React Router, integrated and docu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" /> | 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" /> |
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" />
 </p>
 
