@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋 I'm Diego Alejandro Clavijo</h1>
-<h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
+<h1 align="center">Diego Alejandro Clavijo</h1>
+<h3 align="center">Frontend Engineer • Systems & Computer Engineer</h3>
 
 <p align="center">
 Building scalable, user-centered web applications with modern TypeScript ecosystems.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DAlejandroCl&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm a Systems and Computer Engineer focused on frontend development and scalable web architectures.
+I'm a Systems & Computer Engineer specializing in frontend development and scalable web architectures.
 
-I specialize in building component-driven applications using **React + TypeScript**, emphasizing:
+I design and build component-driven applications using **React and TypeScript**, focusing on:
 
-- Maintainable and modular architecture
-- Predictable state management
-- Runtime data validation
-- Clean UI implementation
-- Strong attention to UX details
+- Clean and maintainable architecture  
+- Predictable state management patterns  
+- Runtime data validation  
+- Scalable folder structures  
+- Performance-aware UI implementation  
+- Strong attention to user experience  
 
-My goal is not just to build interfaces that work — but systems that scale.
+Beyond writing code, I care about structure, clarity, and long-term maintainability.  
+My goal is not just to build interfaces — but systems that scale.
 
 ---
 
@@ -27,7 +33,7 @@ My goal is not just to build interfaces that work — but systems that scale.
 
 <table>
 <tr>
-<td><strong>Frontend</strong></td>
+<td width="160"><strong>Frontend</strong></td>
 <td>
 
 React • TypeScript • JavaScript  
@@ -41,18 +47,22 @@ Zod • HTML5 • CSS3 • Tailwind CSS
 <td><strong>Backend</strong></td>
 <td>
 
-Node.js • Express • REST APIs  
+Node.js • Express  
+REST API Design & Integration  
 PostgreSQL • MySQL  
 
 </td>
 </tr>
 
 <tr>
-<td><strong>Tools & Workflow</strong></td>
+<td><strong>Engineering Practices</strong></td>
 <td>
 
-Git • GitHub • SCRUM • UML  
 Component-Driven Architecture  
+State Management Patterns  
+API Integration Strategies  
+Data Validation & Type Safety  
+SCRUM • Git • GitHub  
 
 </td>
 </tr>
@@ -63,55 +73,42 @@ Component-Driven Architecture
 ## 🚀 Selected Projects
 
 ### 🍸 Cocktail Lab  
-Multi-page React application built with TypeScript and scalable Zustand slice architecture.  
-Integrates TheCocktailDB API with runtime validation using Zod and modular folder structure.
+Multi-page React application built with TypeScript and a scalable Zustand slice architecture.  
+Implements runtime schema validation using Zod and structured modular design.
 
 ### 🌤 Weather Finder  
-Real-time weather app with structured state management and clean API integration patterns.
+Real-time weather application with clean API integration patterns and structured state handling.
 
 ### 📊 Calorie Tracker  
-Type-safe React application focused on predictable data flow and performance optimization.
+Type-safe React application focused on predictable data flow, performance optimization, and maintainable architecture.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DAlejandroCl&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 📚 Research
 
-Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
-Published in IEEE (2025)
+[Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia — IEEE 2025](https://ieeexplore.ieee.org/document/10854835)
 
 ---
 
 ## 📌 Currently Improving
 
-- Advanced React patterns
-- Next.js optimization strategies
-- Scalable frontend architecture
-- Performance-driven UI design
+- Advanced React patterns  
+- Next.js performance optimization  
+- Scalable frontend architecture  
+- UI performance and rendering strategies  
 
 ---
 
