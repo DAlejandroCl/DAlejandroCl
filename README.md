@@ -72,10 +72,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=450" />
 </p>
 
 <p align="center">
