@@ -130,43 +130,41 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📈 Currently Improving
 
-<table align="center" width="80%">
+<table align="center" width="76%">
   <tr>
     <th align="center" width="50%">🔧 Currently Learning</th>
     <th align="center" width="50%">🚀 Coming Next</th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" align="left" width="50%">
       <br/>
-      <b>React Patterns</b><br/>
+      <b>React Patterns</b> &nbsp;—&nbsp; <i>Hooks, composition &amp; architecture</i><br/>
       &nbsp;&nbsp;✦ Custom Hooks &amp; Composition Strategies<br/>
       &nbsp;&nbsp;✦ <code>useReducer</code> &amp; Complex State Orchestration<br/>
       &nbsp;&nbsp;✦ Context API Architecture Design<br/>
       &nbsp;&nbsp;✦ Memoization &amp; Performance Optimization<br/>
       <br/>
-      <b>Server &amp; Auth</b><br/>
+      <b>Server &amp; Auth</b> &nbsp;—&nbsp; <i>Data &amp; security layers</i><br/>
       &nbsp;&nbsp;✦ React Query &amp; Server State Management<br/>
       &nbsp;&nbsp;✦ Authentication, Authorization &amp; RBAC<br/>
       <br/>
-      <b>Fullstack</b><br/>
+      <b>Fullstack</b> &nbsp;—&nbsp; <i>End-to-end development</i><br/>
       &nbsp;&nbsp;✦ PERN &amp; MERN Stack Development<br/>
       <br/>
     </td>
-    <td valign="top">
+    <td valign="top" align="left" width="50%">
       <br/>
-      <b>Next.js 14</b><br/>
+      <b>Next.js 14</b> &nbsp;—&nbsp; <i>Modern React framework</i><br/>
       &nbsp;&nbsp;✦ Fundamentals &amp; Project Structure<br/>
       &nbsp;&nbsp;✦ App Router Architecture<br/>
       &nbsp;&nbsp;✦ Server Actions &amp; Server Components<br/>
       <br/>
-      <b>Rendering Strategies</b><br/>
+      <b>Rendering Strategies</b> &nbsp;—&nbsp; <i>Performance &amp; delivery</i><br/>
       &nbsp;&nbsp;✦ Modern React Rendering Paradigms<br/>
       &nbsp;&nbsp;✦ SSR, SSG &amp; ISR Patterns<br/>
       <br/>
     </td>
   </tr>
 </table>
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
