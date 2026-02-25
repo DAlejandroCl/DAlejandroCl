@@ -1,5 +1,5 @@
 <h1 align="center">Diego Alejandro Clavijo</h1>
-<h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
+<h3 align="center">Frontend Engineer • Systems & Computer Engineer</h3>
 
 <p align="center">
 Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -87,10 +87,6 @@ Real-time weather application integrating external APIs with structured state ha
 ### 📊 Calorie Tracker  
 Type-safe React application focused on predictable data flow, CRUD logic implementation, and performance-conscious rendering.
 
----
-
-## 📚 Research
-
 ### 📚 Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
 🔗 https://ieeexplore.ieee.org/document/10854835  
 
@@ -111,6 +107,15 @@ IEEE 2025 publication proposing a holistic security framework for financial mobi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
+
+---
+
+## 📚 Research
+
+### 📚 Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
+🔗 https://ieeexplore.ieee.org/document/10854835  
+
+IEEE 2025 publication proposing a holistic security framework for financial mobile applications in Colombia, integrating risk analysis, architectural safeguards, and secure development practices.
 
 ---
 
