@@ -1,6 +1,5 @@
-[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
-
-[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=50&lines=Frontend+Engineer+%7C+Systems+%26+Computer+Engineer&direction=right)](https://github.com/DAlejandroCl)
+[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
+[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Frontend+Engineer+%7C+Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
 
 <p align="center">
   Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -162,5 +161,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
     </td>
   </tr>
 </table>
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
