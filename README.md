@@ -113,6 +113,6 @@ Upcoming focus:
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://x.com/AlejandroCl3">
-    <img src="https://skillicons.dev/icons?i=x" height="45"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 </p>
