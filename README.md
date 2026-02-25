@@ -110,7 +110,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="28"/>
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="38"/>
   </a>
 </p>
 
@@ -118,12 +118,10 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="155"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="155"/>
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="155"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="155"/>
 </p>
 
 ---
