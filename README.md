@@ -35,7 +35,7 @@ I care about writing code that is not only functional — but scalable and maint
 ## 🛠 Tech Stack
 
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td align="center" width="220"><strong>Frontend</strong></td>
 <td align="center">
@@ -86,11 +86,6 @@ Real-time weather application integrating external APIs with structured state ha
 
 ### 📊 Calorie Tracker  
 Type-safe React application focused on predictable data flow, CRUD logic implementation, and performance-conscious rendering.
-
-### 📚 Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
-🔗 https://ieeexplore.ieee.org/document/10854835  
-
-IEEE 2025 publication proposing a holistic security framework for financial mobile applications in Colombia, integrating risk analysis, architectural safeguards, and secure development practices.
 
 ---
 
