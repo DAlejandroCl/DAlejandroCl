@@ -1,5 +1,5 @@
 [![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo+Ladino)](https://github.com/DAlejandroCl)
-[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Frontend+Engineer+%7C+Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
+[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Frontend+Developer+%7C+Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
 
 <p align="center">
   Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -31,9 +31,7 @@
 
 ## 👨‍💻 About Me
 
-Systems & Computer Engineer specialized in frontend development with React and TypeScript.
-
-I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
+Systems & Computer Engineer specialized in frontend development with React and TypeScript. I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
 
 > I aim to write code that is not only functional, but resilient, extensible, and ready for real-world environments.
 
