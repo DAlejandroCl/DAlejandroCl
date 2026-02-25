@@ -44,14 +44,13 @@ I aim to write code that is not only functional, but resilient, extensible, and 
 ## 🚀 Selected Work
 
 ### 🍸 Cocktail Lab  
-Scalable multi-page React application built with TypeScript and Zustand Slice architecture.  
-Implements runtime schema validation with Zod and modular folder structure.
+Multi-page React + TypeScript application architected with React Router and Zustand (Slice Pattern) for scalable state management. Integrates TheCocktailDB API with runtime validation using Zod and implements a multi-layer testing strategy including unit, integration, end-to-end, and accessibility testing.
 
 ### 🌤 Weather Finder  
-Real-time weather application integrating external APIs with structured state handling and clean navigation patterns.
+Modern weather application built with React, TypeScript, and Vite. Fetches real-time weather data via the OpenWeatherMap API, featuring runtime validation with Zod, custom hooks, modular architecture, and a fully responsive UI powered by Tailwind CSS.
 
 ### 📊 Calorie Tracker  
-Type-safe React application focused on predictable data flow, CRUD operations, and maintainable component architecture.
+React + TypeScript calorie tracking application designed with centralized state management, performance-focused rendering optimizations, and local persistence strategies to ensure predictable data flow and consistent user experience.
 
 ---
 
@@ -60,7 +59,7 @@ Type-safe React application focused on predictable data flow, CRUD operations, a
 ### Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
 IEEE 2025  
 
-Proposes a holistic security framework for financial mobile applications, combining risk analysis, architectural safeguards and secure development practices.
+Proposes a holistic security framework for financial mobile applications in Colombia, addressing the expanding attack surface driven by increased internet penetration and mobile banking adoption. Grounded in recognized standards and security frameworks, it outlines a non-prescriptive, risk-oriented approach that integrates technical, architectural, and human factors to ensure comprehensive threat mitigation and prevent critical security gaps in financial mobile ecosystems.
   
 🔗 Read publication: https://ieeexplore.ieee.org/document/10854835
 
@@ -104,10 +103,20 @@ Upcoming focus:
 
 ---
 
+---
+
 ## 🤝 Let's Connect
 
-LinkedIn  
-https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:alejandro1clavijo3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-Email  
-alejandro1clavijo3@gmail.com
+  <a href="https://twitter.com/AlejandroCl3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
