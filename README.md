@@ -108,7 +108,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="56"/>
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
