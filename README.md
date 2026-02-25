@@ -31,7 +31,9 @@
 
 ## 👨‍💻 About Me
 
-Systems & Computer Engineer specialized in frontend development with React and TypeScript. I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
+Systems & Computer Engineer specialized in frontend development with React and TypeScript.
+
+I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
 
 > I aim to write code that is not only functional, but resilient, extensible, and ready for real-world environments.
 
@@ -46,7 +48,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="56"/>
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=for-the-badge&logoColor=white&labelColor=0e75b6" height="56"/>
   </a>
 </p>
 
@@ -186,6 +188,4 @@ Proposes a holistic security framework for financial mobile applications in Colo
   </tr>
 </table>
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer)
