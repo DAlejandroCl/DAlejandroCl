@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Colombia &nbsp;·&nbsp; Open to remote opportunities
+  <img src="https://flagcdn.com/20x15/co.png" alt="Colombia"/> Colombia &nbsp;|&nbsp; Open to remote opportunities
 </p>
 
 <p align="center">
@@ -31,9 +31,7 @@
 
 ## 👨‍💻 About Me
 
-Systems & Computer Engineer specialized in frontend development with React and TypeScript.
-
-I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
+Systems & Computer Engineer specialized in frontend development with React and TypeScript. I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
 
 > I aim to write code that is not only functional, but resilient, extensible, and ready for real-world environments.
 
@@ -103,23 +101,14 @@ Proposes a holistic security framework for financial mobile applications in Colo
     </tr>
     <!-- Row 2: Stack icons -->
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="28"/>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="28"/>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="28"/>
       </td>
     </tr>
     <!-- Row 3: Badges -->
@@ -168,7 +157,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&theme=github_dark&hide_border=false&border_radius=10&layout=compact&langs_count=6&border_color=0e75b6&cache_seconds=1800" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="160"/>
 </p>
 
 ---
