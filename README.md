@@ -130,36 +130,36 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📈 Currently Improving
 
-<table align="center" width="76%">
+<table align="center" width="80%">
   <tr>
-    <th align="center" width="50%">🔧 Currently Learning</th>
-    <th align="center" width="50%">🚀 Coming Next</th>
+    <th align="left" width="50%">🔧 Currently Learning</th>
+    <th align="left" width="50%">🚀 Coming Next</th>
   </tr>
   <tr>
-    <td valign="top" align="left" width="50%">
+    <td valign="top">
       <br/>
-      <b>React Patterns</b> &nbsp;—&nbsp; <i>Hooks, composition &amp; architecture</i><br/>
+      <b><a href="#">React Patterns</a></b><br/>
       &nbsp;&nbsp;✦ Custom Hooks &amp; Composition Strategies<br/>
       &nbsp;&nbsp;✦ <code>useReducer</code> &amp; Complex State Orchestration<br/>
       &nbsp;&nbsp;✦ Context API Architecture Design<br/>
       &nbsp;&nbsp;✦ Memoization &amp; Performance Optimization<br/>
       <br/>
-      <b>Server &amp; Auth</b> &nbsp;—&nbsp; <i>Data &amp; security layers</i><br/>
+      <b><a href="#">Server &amp; Auth</a></b><br/>
       &nbsp;&nbsp;✦ React Query &amp; Server State Management<br/>
       &nbsp;&nbsp;✦ Authentication, Authorization &amp; RBAC<br/>
       <br/>
-      <b>Fullstack</b> &nbsp;—&nbsp; <i>End-to-end development</i><br/>
+      <b><a href="#">Fullstack</a></b><br/>
       &nbsp;&nbsp;✦ PERN &amp; MERN Stack Development<br/>
       <br/>
     </td>
-    <td valign="top" align="left" width="50%">
+    <td valign="top">
       <br/>
-      <b>Next.js 14</b> &nbsp;—&nbsp; <i>Modern React framework</i><br/>
+      <b><a href="#">Next.js 14</a></b><br/>
       &nbsp;&nbsp;✦ Fundamentals &amp; Project Structure<br/>
       &nbsp;&nbsp;✦ App Router Architecture<br/>
       &nbsp;&nbsp;✦ Server Actions &amp; Server Components<br/>
       <br/>
-      <b>Rendering Strategies</b> &nbsp;—&nbsp; <i>Performance &amp; delivery</i><br/>
+      <b><a href="#">Rendering Strategies</a></b><br/>
       &nbsp;&nbsp;✦ Modern React Rendering Paradigms<br/>
       &nbsp;&nbsp;✦ SSR, SSG &amp; ISR Patterns<br/>
       <br/>
