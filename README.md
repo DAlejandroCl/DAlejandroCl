@@ -1,6 +1,6 @@
-[![typing-header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I'm+Diego+Alejandro+Clavijo](https://github.com/DAlejandroCl)
+[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
 
-<h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
+[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Frontend+Engineer+%7C+React+%2B+TypeScript;Systems+%26+Computer+Engineer;Component-Driven+%26+Type-Safe+Development)](https://github.com/DAlejandroCl)
 
 <p align="center">
   Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -107,7 +107,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="56"/>
   </a>
 </p>
 
@@ -116,9 +116,11 @@ Proposes a holistic security framework for financial mobile applications in Colo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&rank_icon=github&border_color=0e75b6" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=tokyonight" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&theme=tokyonight&hide_border=false&border_radius=10&layout=compact&langs_count=8&border_color=0e75b6" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=tokyonight" height="170"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAlejandroCl&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -169,7 +171,5 @@ Proposes a holistic security framework for financial mobile applications in Colo
     </td>
   </tr>
 </table>
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
