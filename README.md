@@ -1,6 +1,6 @@
-[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
+[![typing-name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I%27m+Diego+Alejandro+Clavijo)](https://github.com/DAlejandroCl)
 
-[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Frontend+Engineer+%7C+React+%2B+TypeScript;Systems+%26+Computer+Engineer;Component-Driven+%26+Type-Safe+Development)](https://github.com/DAlejandroCl)
+[![typing-role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=50&lines=Frontend+Engineer+%7C+Systems+%26+Computer+Engineer&direction=right)](https://github.com/DAlejandroCl)
 
 <p align="center">
   Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -116,19 +116,11 @@ Proposes a holistic security framework for financial mobile applications in Colo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="160"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="160"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAlejandroCl&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=0e75b6&ring=0e75b6&fire=a0c4ff&currStreakLabel=0e75b6" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAlejandroCl&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
 ---
