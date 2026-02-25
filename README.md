@@ -56,40 +56,42 @@ I have developed multi-view applications using React Router, integrated and docu
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th width="18%">Project</th>
-      <th width="52%">Description</th>
-      <th width="30%" align="center">Stack</th>
+      <th align="center" width="33%"><a href="https://github.com/DAlejandroCl/Cocktail-Lab">🍸 Cocktail Lab</a></th>
+      <th align="center" width="33%"><a href="https://github.com/DAlejandroCl/Weather-finder">🌤 Weather Finder</a></th>
+      <th align="center" width="34%"><a href="https://github.com/DAlejandroCl/Calorie-tracker">📊 Calorie Tracker</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DAlejandroCl/Cocktail-Lab">🍸 Cocktail Lab</a></td>
-      <td>Multi-page app with React Router &amp; Zustand (Slice Pattern). Integrates TheCocktailDB API with Zod runtime validation and multi-layer testing (unit, integration, e2e, a11y).</td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
+      <td valign="top" align="center">
+        <br/>
+        Multi-page app with React Router &amp; Zustand (Slice Pattern). Integrates TheCocktailDB API with Zod runtime validation and multi-layer testing (unit, integration, e2e, a11y).
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+        <br/><br/>
       </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DAlejandroCl/Weather-finder">🌤 Weather Finder</a></td>
-      <td>Real-time weather app via OpenWeatherMap API with Axios. Features Zod validation, custom hooks, modular architecture and responsive UI.</td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
+      <td valign="top" align="center">
+        <br/>
+        Real-time weather app via OpenWeatherMap API with Axios. Features Zod validation, custom hooks, modular architecture and responsive UI.
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+        <br/><br/>
       </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DAlejandroCl/Calorie-tracker">📊 Calorie Tracker</a></td>
-      <td>Calorie tracking app with <code>useReducer</code> for centralized state, <code>useMemo</code> for performance optimization and localStorage persistence.</td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
+      <td valign="top" align="center">
+        <br/>
+        Calorie tracking app with <code>useReducer</code> for centralized state, <code>useMemo</code> for performance optimization and localStorage persistence.
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="28" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+        <br/><br/>
       </td>
     </tr>
   </tbody>
@@ -116,8 +118,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="160"/>
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
