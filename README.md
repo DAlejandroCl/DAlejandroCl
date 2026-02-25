@@ -106,13 +106,13 @@ Upcoming focus:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:alejandro1clavijo3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <a href="https://twitter.com/AlejandroCl3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://x.com/AlejandroCl3">
+    <img src="https://skillicons.dev/icons?i=x" height="45"/>
   </a>
 </p>
