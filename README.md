@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Diego%20Alejandro%20Clavijo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20%26%20Computer%20Engineer&descAlignY=55&descColor=a0c4ff)
+[![typing-header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I'm+Diego+Alejandro+Clavijo;Frontend+Engineer+%7C+React+%2B+TypeScript;Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
 
 <h1 align="center">Hi 🖐️, I'm Diego Alejandro Clavijo</h1>
 <h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
@@ -117,13 +117,17 @@ Proposes a holistic security framework for financial mobile applications in Colo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="155"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="155"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAlejandroCl&theme=github_dark" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&rank_icon=github&border_color=0e75b6" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&theme=tokyonight&hide_border=false&border_radius=10&layout=compact&langs_count=8&border_color=0e75b6" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAlejandroCl&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=0e75b6&ring=0e75b6&fire=a0c4ff&currStreakLabel=0e75b6" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAlejandroCl&theme=tokyonight"/>
 </p>
 
 ---
