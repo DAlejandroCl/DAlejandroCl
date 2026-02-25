@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Diego%20Alejandro%20Clavijo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20%26%20Computer%20Engineer&descAlignY=55&descColor=a0c4ff" />
-</p>
-
 <h1 align="center">Hi 🖐️, I'm Diego Alejandro Clavijo</h1>
 <h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
 
@@ -13,19 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=DAlejandroCl&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 🤝 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;
   <a href="mailto:alejandro1clavijo3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  &nbsp;
   <a href="https://x.com/AlejandroCl3">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
 </p>
 
@@ -52,47 +46,50 @@ I have developed multi-view applications using React Router, integrated and docu
 </p>
 
 <p align="center">
-  <code>Frontend Architecture</code> &bull; <code>State Management</code> &bull; <code>REST API Integration</code> &bull; <code>Type Safety</code> &bull; <code>Component-Driven Design</code>
+  <code>Frontend Architecture</code> | <code>State Management</code> | <code>REST API Integration</code> | <code>Type Safety</code> | <code>Component-Driven Design</code>
 </p>
 
 ---
 
 ## 🚀 Selected Work
 
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th align="center">Stack</th>
+      <th width="18%">Project</th>
+      <th width="52%">Description</th>
+      <th width="30%" align="center">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DAlejandroCl/CocktailLab">🍸 Cocktail Lab</a></td>
-      <td>Multi-page app with React Router &amp; Zustand (Slice Pattern). Integrates TheCocktailDB API with Zod validation and multi-layer testing (unit, integration, e2e, a11y).</td>
+      <td><a href="https://github.com/DAlejandroCl/Cocktail-Lab">🍸 Cocktail Lab</a></td>
+      <td>Multi-page app with React Router &amp; Zustand (Slice Pattern). Integrates TheCocktailDB API with Zod runtime validation and multi-layer testing (unit, integration, e2e, a11y).</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
         <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
         <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DAlejandroCl/WeatherFinder">🌤 Weather Finder</a></td>
-      <td>Real-time weather app via OpenWeatherMap API. Features custom hooks, modular architecture and responsive UI.</td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
-        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DAlejandroCl/CalorieTracker">📊 Calorie Tracker</a></td>
-      <td>Calorie tracking app with centralized state management, rendering optimizations and local persistence.</td>
+      <td><a href="https://github.com/DAlejandroCl/Weather-finder">🌤 Weather Finder</a></td>
+      <td>Real-time weather app via OpenWeatherMap API with Axios. Features Zod validation, custom hooks, modular architecture and responsive UI.</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
         <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DAlejandroCl/Calorie-tracker">📊 Calorie Tracker</a></td>
+      <td>Calorie tracking app with <code>useReducer</code> for centralized state, <code>useMemo</code> for performance optimization and localStorage persistence.</td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="30" title="React"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS"/>
       </td>
     </tr>
   </tbody>
@@ -109,7 +106,8 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/IEEE%202025-Read%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" title="Read IEEE Publication" style="display:none"/>
+    <img src="https://img.shields.io/badge/-%F0%9F%94%97%20IEEE%202025%20%E2%80%93%20Read%20Publication-1e1e2e?style=for-the-badge&logoColor=white&labelColor=00629B&color=0d1117" />
   </a>
 </p>
 
@@ -131,19 +129,26 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📈 Currently Improving
 
-**Advanced React Patterns**
-
-| Area | Topics |
-|------|--------|
-| Hooks & Composition | Custom Hooks, `useReducer`, complex state orchestration |
-| Architecture | Context API design, component patterns |
-| Performance | Memoization, lazy loading, rendering strategies |
-| Server State | React Query, data fetching patterns |
-| Auth | Authentication, authorization, RBAC |
-| Fullstack | PERN & MERN stacks |
-
-**Upcoming Focus**  
-`Next.js 14` · `App Router` · `Server Actions` · `Modern React rendering paradigms`
+<table align="center" width="80%">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🔧 Advanced React Patterns</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react" height="25"/> Custom Hooks &amp; Composition<br/>
+      <img src="https://skillicons.dev/icons?i=react" height="25"/> <code>useReducer</code> &amp; Complex State<br/>
+      <img src="https://skillicons.dev/icons?i=react" height="25"/> Context API Architecture<br/>
+      <img src="https://skillicons.dev/icons?i=react" height="25"/> Memoization &amp; Performance<br/>
+      <img src="https://skillicons.dev/icons?i=react" height="25"/> React Query · Server State
+    </td>
+    <td align="center" width="50%">
+      <strong>🚀 Expanding Stack</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="25"/> PERN &amp; MERN Fullstack<br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="25"/> Auth, RBAC &amp; Authorization<br/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Next.js 14 &amp; App Router<br/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Server Actions<br/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Modern Rendering Paradigms
+    </td>
+  </tr>
+</table>
 
 ---
 
