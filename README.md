@@ -110,7 +110,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="28"/>
   </a>
 </p>
 
@@ -118,43 +118,51 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="170"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="170"/>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="155"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="155"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="155"/>
 </p>
 
 ---
 
 ## 📈 Currently Improving
 
-<table align="center" width="88%">
+<table align="center" width="80%">
   <tr>
     <th align="center" width="50%">🔧 Currently Learning</th>
     <th align="center" width="50%">🚀 Coming Next</th>
   </tr>
   <tr>
-    <td valign="top" align="left">
+    <td valign="top">
       <br/>
-      ✦ &nbsp;Custom Hooks &amp; Composition Strategies<br/><br/>
-      ✦ &nbsp;<code>useReducer</code> &amp; Complex State Orchestration<br/><br/>
-      ✦ &nbsp;Context API Architecture Design<br/><br/>
-      ✦ &nbsp;Memoization &amp; Performance Optimization<br/><br/>
-      ✦ &nbsp;React Query &amp; Server State Management<br/><br/>
-      ✦ &nbsp;Authentication, Authorization &amp; RBAC<br/><br/>
-      ✦ &nbsp;Fullstack Development · PERN &amp; MERN
+      <b>React Patterns</b><br/>
+      &nbsp;&nbsp;✦ Custom Hooks &amp; Composition Strategies<br/>
+      &nbsp;&nbsp;✦ <code>useReducer</code> &amp; Complex State Orchestration<br/>
+      &nbsp;&nbsp;✦ Context API Architecture Design<br/>
+      &nbsp;&nbsp;✦ Memoization &amp; Performance Optimization<br/>
+      <br/>
+      <b>Server &amp; Auth</b><br/>
+      &nbsp;&nbsp;✦ React Query &amp; Server State Management<br/>
+      &nbsp;&nbsp;✦ Authentication, Authorization &amp; RBAC<br/>
+      <br/>
+      <b>Fullstack</b><br/>
+      &nbsp;&nbsp;✦ PERN &amp; MERN Stack Development<br/>
+      <br/>
     </td>
-    <td valign="top" align="left">
+    <td valign="top">
       <br/>
-      ✦ &nbsp;Next.js 14 Fundamentals<br/><br/>
-      ✦ &nbsp;App Router Architecture<br/><br/>
-      ✦ &nbsp;Server Actions &amp; Server Components<br/><br/>
-      ✦ &nbsp;Modern React Rendering Paradigms<br/><br/>
-      ✦ &nbsp;SSR, SSG &amp; ISR Strategies<br/><br/>
+      <b>Next.js 14</b><br/>
+      &nbsp;&nbsp;✦ Fundamentals &amp; Project Structure<br/>
+      &nbsp;&nbsp;✦ App Router Architecture<br/>
+      &nbsp;&nbsp;✦ Server Actions &amp; Server Components<br/>
+      <br/>
+      <b>Rendering Strategies</b><br/>
+      &nbsp;&nbsp;✦ Modern React Rendering Paradigms<br/>
+      &nbsp;&nbsp;✦ SSR, SSG &amp; ISR Patterns<br/>
+      <br/>
     </td>
   </tr>
 </table>
