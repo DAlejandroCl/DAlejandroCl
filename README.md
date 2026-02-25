@@ -1,6 +1,5 @@
-[![typing-header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I'm+Diego+Alejandro+Clavijo;Frontend+Engineer+%7C+React+%2B+TypeScript;Systems+%26+Computer+Engineer)](https://github.com/DAlejandroCl)
+[![typing-header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I'm+Diego+Alejandro+Clavijo](https://github.com/DAlejandroCl)
 
-<h1 align="center">Hi 🖐️, I'm Diego Alejandro Clavijo</h1>
 <h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
 
 <p align="center">
