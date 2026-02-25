@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  📍 Colombia &nbsp;·&nbsp; Open to remote opportunities
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DAlejandroCl&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
@@ -31,9 +35,22 @@ Systems & Computer Engineer specialized in frontend development with React and T
 
 I design and build component-driven web applications with a strong emphasis on scalability, maintainability, and predictable data flow. My work combines structured state management (Hooks, Context API, Zustand), runtime data validation with Zod, and clean architectural patterns that support long-term growth.
 
-I have developed multi-view applications using React Router, integrated and documented REST APIs, implemented full CRUD workflows, and orchestrated both local and global state in complex interfaces. My approach is grounded in requirement analysis, clear technical documentation, and performance-aware rendering strategies.
-
 > I aim to write code that is not only functional, but resilient, extensible, and ready for real-world environments.
+
+---
+
+## 🔐 Research
+
+**[Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia](https://ieeexplore.ieee.org/document/10854835)**  
+*IEEE 2025*
+
+Proposes a holistic security framework for financial mobile applications in Colombia, addressing the expanding attack surface driven by increased internet penetration and mobile banking adoption. Integrates technical, architectural, and human factors for comprehensive threat mitigation — directly relevant to security-critical frontend ecosystems in fintech.
+
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/document/10854835">
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="56"/>
+  </a>
+</p>
 
 ---
 
@@ -76,6 +93,14 @@ I have developed multi-view applications using React Router, integrated and docu
         <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
         <br/><br/>
+        <a href="https://github.com/DAlejandroCl/Cocktail-Lab">
+          <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://cocktail-lab-devacl.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-238636?style=flat&logo=vercel&logoColor=white"/>
+        </a>
+        <br/><br/>
       </td>
       <td valign="top" align="center">
         <br/>
@@ -85,6 +110,14 @@ I have developed multi-view applications using React Router, integrated and docu
         <img src="https://skillicons.dev/icons?i=ts" height="28" title="TypeScript"/>
         <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
+        <br/><br/>
+        <a href="https://github.com/DAlejandroCl/Weather-finder">
+          <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://weather-finder-devacl.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-238636?style=flat&logo=vercel&logoColor=white"/>
+        </a>
         <br/><br/>
       </td>
       <td valign="top" align="center">
@@ -96,6 +129,14 @@ I have developed multi-view applications using React Router, integrated and docu
         <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="28" title="Tailwind CSS"/>
         <br/><br/>
+        <a href="https://github.com/DAlejandroCl/Calorie-tracker">
+          <img src="https://img.shields.io/badge/Code-0e75b6?style=flat&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://calorie-tracker-devacl.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-238636?style=flat&logo=vercel&logoColor=white"/>
+        </a>
+        <br/><br/>
       </td>
     </tr>
   </tbody>
@@ -103,26 +144,9 @@ I have developed multi-view applications using React Router, integrated and docu
 
 ---
 
-## 🔐 Research
-
-**[Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia](https://ieeexplore.ieee.org/document/10854835)**  
-*IEEE 2025*
-
-Proposes a holistic security framework for financial mobile applications in Colombia, addressing the expanding attack surface driven by increased internet penetration and mobile banking adoption. Integrates technical, architectural, and human factors for comprehensive threat mitigation.
-
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=flat&logoColor=white&labelColor=0e75b6" height="56"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="160"/>
-  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
@@ -151,5 +175,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
     </td>
   </tr>
 </table>
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
