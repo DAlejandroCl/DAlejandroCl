@@ -1,66 +1,124 @@
-```
-> Hi there 👋, I'm Diego Alejandro Clavijo Ladino
-> Systems & Computer Engineer
-> Frontend-focused
-```
-Building scalable web applications with React & TypeScript.
-Focused on clean architecture, maintainable code and user-centered interfaces.
+<h1 align="center">Hi 👋 I'm Diego Alejandro Clavijo</h1>
+<h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
+
+<p align="center">
+Building scalable, user-centered web applications with modern TypeScript ecosystems.
+</p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Ingeniero de Sistemas y Computación con enfoque en desarrollo web frontend y arquitectura escalable en aplicaciones modernas.
+I'm a Systems and Computer Engineer focused on frontend development and scalable web architectures.
 
-Me especializo en la construcción de interfaces orientadas a componentes utilizando React y TypeScript, priorizando mantenibilidad, claridad estructural y experiencia de usuario.
+I specialize in building component-driven applications using **React + TypeScript**, emphasizing:
 
-Tengo experiencia integrando APIs REST, gestionando estado global y local con patrones predecibles, y aplicando validación de datos en tiempo de ejecución para asegurar consistencia y robustez en las aplicaciones.
+- Maintainable and modular architecture
+- Predictable state management
+- Runtime data validation
+- Clean UI implementation
+- Strong attention to UX details
 
----
-
-## Tech Stack
-
-» Frontend: React, TypeScript, JavaScript, React Router, Zustand, React Hook Form, Zod, HTML5 / CSS3, Tailwind CSS.  
-» Backend: Node.js, Express, PostgreSQL, REST APIs.  
-» Tools & Workflow: Git / GitHub, SCRUM, UML, Component-driven architecture.  
+My goal is not just to build interfaces that work — but systems that scale.
 
 ---
 
-## Selected Projects
+## 🛠 Tech Stack
 
-» Cocktail Lab  
-Multi-page React application using TypeScript, React Router and scalable Zustand slice architecture. Integrates TheCocktailDB API with runtime validation via Zod.
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
 
-» Weather Finder  
-Real-time weather application with API integration, structured state management and clean modular architecture.
+React • TypeScript • JavaScript  
+React Router • Zustand • React Hook Form  
+Zod • HTML5 • CSS3 • Tailwind CSS  
 
-» Calorie Tracker  
-Type-safe application focused on predictable state management and performance optimization.
+</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+
+Node.js • Express • REST APIs  
+PostgreSQL • MySQL  
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools & Workflow</strong></td>
+<td>
+
+Git • GitHub • SCRUM • UML  
+Component-Driven Architecture  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Research
+## 🚀 Selected Projects
+
+### 🍸 Cocktail Lab  
+Multi-page React application built with TypeScript and scalable Zustand slice architecture.  
+Integrates TheCocktailDB API with runtime validation using Zod and modular folder structure.
+
+### 🌤 Weather Finder  
+Real-time weather app with structured state management and clean API integration patterns.
+
+### 📊 Calorie Tracker  
+Type-safe React application focused on predictable data flow and performance optimization.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DAlejandroCl&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📚 Research
 
 Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
-IEEE 2025
+Published in IEEE (2025)
 
 ---
 
-## Currently Improving
+## 📌 Currently Improving
 
 - Advanced React patterns
-- Next.js performance optimization
+- Next.js optimization strategies
 - Scalable frontend architecture
+- Performance-driven UI design
 
 ---
 
-## Contact
+## 🤝 Let's Connect
 
 LinkedIn  
 https://www.linkedin.com/in/diego-alejandro-clavijo-ladino/
-
-GitHub  
-https://github.com/DAlejandroCl
 
 Email  
 alejandro1clavijo3@gmail.com
