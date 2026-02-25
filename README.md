@@ -13,12 +13,19 @@ Designing scalable, maintainable and user-centered web applications with modern 
 
 ## ⚙️ Tech Stack
 
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
 </p>
 
+### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=light" width="0" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+</p>
+
+### Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 <p align="center">
@@ -33,14 +40,7 @@ Systems & Computer Engineer specialized in frontend development with React and T
 
 I build component-driven applications applying structured state management (Hooks, Context API, Zustand), runtime validation with Zod, and scalable architectural patterns.
 
-My experience includes:
-
-- Multi-view applications with React Router  
-- REST API integration and documentation  
-- Full CRUD implementation  
-- Local and global state orchestration  
-- Requirement analysis and technical documentation  
-- Performance-aware rendering strategies  
+My experience includes multi-view applications with React Router, REST API integration and documentation, full CRUD implementation, and orchestration of both local and global state.
 
 I focus on writing code that scales — not just code that works.
 
@@ -65,8 +65,10 @@ Type-safe React application focused on predictable data flow, CRUD operations, a
 ### Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
 IEEE 2025  
 
-Proposes a holistic security framework for financial mobile applications, combining risk analysis, architectural safeguards and secure development practices.
-  
+Proposes a holistic security framework for financial mobile applications in Colombia, addressing the growing risks derived from increased internet penetration and mobile banking adoption.
+
+The framework is grounded in recognized standards and promotes a non-prescriptive, comprehensive approach that considers technical, architectural and human risk factors. Rather than introducing a novel methodology, it reinforces the application of holistic security principles to ensure no critical components are overlooked in financial mobile environments.
+
 🔗 Read publication: https://ieeexplore.ieee.org/document/10854835
 
 ---
@@ -74,30 +76,30 @@ Proposes a holistic security framework for financial mobile applications, combin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-Consistent contribution and continuous project development.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 📈 Currently Improving
 
-Deepening my expertise in advanced React patterns including:
+Deepening my expertise in advanced React patterns and fullstack architecture:
 
 - Custom Hooks and composition strategies  
 - useReducer and complex state orchestration  
 - Context API architecture design  
-- Performance optimization with memoization patterns  
+- Performance optimization and memoization patterns  
 - FullStack development with PERN and MERN stacks  
-- Authentication, authorization and role-based systems  
-- React Query for server-state management  
+- Authentication, authorization and role-based access systems  
+- React Query for efficient server-state management  
 
 Upcoming focus:
 
-- Next.js 14 fundamentals and App Router  
+- Introduction to Next.js 14 (App Router fundamentals)  
 - Server Actions and modern React rendering paradigms  
 
 ---
