@@ -1,5 +1,5 @@
 <h1 align="center">Diego Alejandro Clavijo</h1>
-<h3 align="center">Frontend Engineer • Systems & Computer Engineer</h3>
+<h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
 
 <p align="center">
 Designing scalable, maintainable and user-centered web applications with modern TypeScript ecosystems.
@@ -11,115 +11,91 @@ Designing scalable, maintainable and user-centered web applications with modern 
 
 ---
 
-## 👨‍💻 About
-
-I'm a Systems & Computer Engineer focused on frontend development and scalable web architectures.
-
-My work centers around building **component-driven applications** using React and TypeScript, applying structured state management patterns, runtime validation, and clean architectural principles.
-
-I’ve developed multi-view applications integrating REST APIs, implementing full CRUD flows, and managing both local and global state using Hooks, Context API and Zustand.
-
-Beyond implementation, I emphasize:
-
-- Requirement analysis and structured problem-solving  
-- Maintainable folder architecture  
-- Predictable data flow  
-- Performance-aware rendering  
-- UX-focused interface design  
-- Clear technical documentation  
-
-I care about writing code that is not only functional — but scalable and maintainable in real-world environments.
-
----
-
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-<table align="center">
-<tr>
-<td align="center" width="220"><strong>Frontend</strong></td>
-<td align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,mysql,git,github" />
+</p>
 
-React • TypeScript • JavaScript  
-React Router • Zustand • React Hook Form  
-Zod • HTML5 • CSS3 • Tailwind CSS  
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>Backend</strong></td>
-<td align="center">
-
-Node.js • Express  
-REST API Design & Integration  
-PostgreSQL • MySQL  
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>Engineering & Workflow</strong></td>
-<td align="center">
-
-Component-Driven Architecture  
-State Management Patterns  
-API Integration Strategies  
-Data Validation & Type Safety  
-SCRUM • Git • GitHub • UML  
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=zustand,prisma,mongodb" />
 </p>
 
 ---
 
-## 🚀 Selected Projects & Research
+## 👨‍💻 About
+
+Systems & Computer Engineer specialized in frontend development with React and TypeScript.
+
+I build component-driven applications applying structured state management (Hooks, Context API, Zustand), runtime validation with Zod, and scalable architectural patterns.
+
+My experience includes:
+
+- Multi-view applications with React Router  
+- REST API integration and documentation  
+- Full CRUD implementation  
+- Local and global state orchestration  
+- Requirement analysis and technical documentation  
+- Performance-aware rendering strategies  
+
+I focus on writing code that scales — not just code that works.
+
+---
+
+## 🚀 Selected Work
 
 ### 🍸 Cocktail Lab  
 Scalable multi-page React application built with TypeScript and Zustand Slice architecture.  
-Implements runtime schema validation with Zod and structured modular design for maintainability.
+Implements runtime schema validation with Zod and modular folder structure.
 
 ### 🌤 Weather Finder  
-Real-time weather application integrating external APIs with structured state handling and clean navigation architecture.
+Real-time weather application integrating external APIs with structured state handling and clean navigation patterns.
 
 ### 📊 Calorie Tracker  
-Type-safe React application focused on predictable data flow, CRUD logic implementation, and performance-conscious rendering.
+Type-safe React application focused on predictable data flow, CRUD operations, and maintainable component architecture.
+
+---
+
+## 🔐 Research
+
+### Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
+IEEE 2025  
+
+Proposes a holistic security framework for financial mobile applications, combining risk analysis, architectural safeguards and secure development practices.
+  
+🔗 Read publication: https://ieeexplore.ieee.org/document/10854835
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="140"/>
 </p>
 
 ---
 
-## 📚 Research
+## 📈 Currently Improving
 
-### 📚 Security Model with a Holistic Approach for Mobile Applications of Financial Entities in Colombia  
-🔗 https://ieeexplore.ieee.org/document/10854835  
+Deepening my expertise in advanced React patterns including:
 
-IEEE 2025 publication proposing a holistic security framework for financial mobile applications in Colombia, integrating risk analysis, architectural safeguards, and secure development practices.
+- Custom Hooks and composition strategies  
+- useReducer and complex state orchestration  
+- Context API architecture design  
+- Performance optimization with memoization patterns  
+- FullStack development with PERN and MERN stacks  
+- Authentication, authorization and role-based systems  
+- React Query for server-state management  
 
----
+Upcoming focus:
 
-## 📌 Currently Improving
-
-- Advanced React patterns and composition strategies  
-- Next.js rendering and performance optimization  
-- Scalable frontend architecture patterns  
-- UI performance and rendering strategies  
+- Next.js 14 fundamentals and App Router  
+- Server Actions and modern React rendering paradigms  
 
 ---
 
