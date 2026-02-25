@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Diego%20Alejandro%20Clavijo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20%26%20Computer%20Engineer&descAlignY=55&descColor=a0c4ff" width="100%"/>
+</p>
+
 <h1 align="center">Hi 🖐️, I'm Diego Alejandro Clavijo</h1>
 <h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
 
@@ -106,8 +110,7 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10854835">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" title="Read IEEE Publication" style="display:none"/>
-    <img src="https://img.shields.io/badge/-%F0%9F%94%97%20IEEE%202025%20%E2%80%93%20Read%20Publication-1e1e2e?style=for-the-badge&logoColor=white&labelColor=00629B&color=0d1117" />
+    <img src="https://img.shields.io/badge/🔗%20IEEE%202025%20–%20Read%20Publication-0e75b6?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -116,9 +119,9 @@ Proposes a holistic security framework for financial mobile applications in Colo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800&card_width=320" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
@@ -129,23 +132,29 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 ## 📈 Currently Improving
 
-<table align="center" width="80%">
+<table align="center" width="88%">
   <tr>
-    <td align="center" width="50%">
-      <strong>🔧 Advanced React Patterns</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react" height="25"/> Custom Hooks &amp; Composition<br/>
-      <img src="https://skillicons.dev/icons?i=react" height="25"/> <code>useReducer</code> &amp; Complex State<br/>
-      <img src="https://skillicons.dev/icons?i=react" height="25"/> Context API Architecture<br/>
-      <img src="https://skillicons.dev/icons?i=react" height="25"/> Memoization &amp; Performance<br/>
-      <img src="https://skillicons.dev/icons?i=react" height="25"/> React Query · Server State
+    <th align="center" width="50%">🔧 Currently Learning</th>
+    <th align="center" width="50%">🚀 Coming Next</th>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <br/>
+      ✦ &nbsp;Custom Hooks &amp; Composition Strategies<br/><br/>
+      ✦ &nbsp;<code>useReducer</code> &amp; Complex State Orchestration<br/><br/>
+      ✦ &nbsp;Context API Architecture Design<br/><br/>
+      ✦ &nbsp;Memoization &amp; Performance Optimization<br/><br/>
+      ✦ &nbsp;React Query &amp; Server State Management<br/><br/>
+      ✦ &nbsp;Authentication, Authorization &amp; RBAC<br/><br/>
+      ✦ &nbsp;Fullstack Development · PERN &amp; MERN
     </td>
-    <td align="center" width="50%">
-      <strong>🚀 Expanding Stack</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="25"/> PERN &amp; MERN Fullstack<br/>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="25"/> Auth, RBAC &amp; Authorization<br/>
-      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Next.js 14 &amp; App Router<br/>
-      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Server Actions<br/>
-      <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> Modern Rendering Paradigms
+    <td valign="top" align="left">
+      <br/>
+      ✦ &nbsp;Next.js 14 Fundamentals<br/><br/>
+      ✦ &nbsp;App Router Architecture<br/><br/>
+      ✦ &nbsp;Server Actions &amp; Server Components<br/><br/>
+      ✦ &nbsp;Modern React Rendering Paradigms<br/><br/>
+      ✦ &nbsp;SSR, SSG &amp; ISR Strategies<br/><br/>
     </td>
   </tr>
 </table>
@@ -153,5 +162,5 @@ Proposes a holistic security framework for financial mobile applications in Colo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
 </p>
