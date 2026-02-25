@@ -138,30 +138,15 @@ Proposes a holistic security framework for financial mobile applications in Colo
   <tr>
     <td valign="top">
       <br/>
-      <b><a href="#">React Patterns</a></b><br/>
-      &nbsp;&nbsp;✦ Custom Hooks &amp; Composition Strategies<br/>
-      &nbsp;&nbsp;✦ <code>useReducer</code> &amp; Complex State Orchestration<br/>
-      &nbsp;&nbsp;✦ Context API Architecture Design<br/>
-      &nbsp;&nbsp;✦ Memoization &amp; Performance Optimization<br/>
-      <br/>
-      <b><a href="#">Server &amp; Auth</a></b><br/>
-      &nbsp;&nbsp;✦ React Query &amp; Server State Management<br/>
-      &nbsp;&nbsp;✦ Authentication, Authorization &amp; RBAC<br/>
-      <br/>
-      <b><a href="#">Fullstack</a></b><br/>
-      &nbsp;&nbsp;✦ PERN &amp; MERN Stack Development<br/>
+      <b>React Patterns:</b> Custom Hooks &amp; Composition Strategies, <code>useReducer</code> &amp; Complex State Orchestration, Context API Architecture Design, Memoization &amp; Performance Optimization<br/><br/>
+      <b>Server &amp; Auth:</b> React Query &amp; Server State Management, Authentication, Authorization &amp; RBAC<br/><br/>
+      <b>Fullstack:</b> PERN &amp; MERN Stack Development<br/>
       <br/>
     </td>
     <td valign="top">
       <br/>
-      <b><a href="#">Next.js 14</a></b><br/>
-      &nbsp;&nbsp;✦ Fundamentals &amp; Project Structure<br/>
-      &nbsp;&nbsp;✦ App Router Architecture<br/>
-      &nbsp;&nbsp;✦ Server Actions &amp; Server Components<br/>
-      <br/>
-      <b><a href="#">Rendering Strategies</a></b><br/>
-      &nbsp;&nbsp;✦ Modern React Rendering Paradigms<br/>
-      &nbsp;&nbsp;✦ SSR, SSG &amp; ISR Patterns<br/>
+      <b>Next.js 14:</b> Fundamentals &amp; Project Structure, App Router Architecture, Server Actions &amp; Server Components<br/><br/>
+      <b>Rendering Strategies:</b> Modern React Rendering Paradigms, SSR, SSG &amp; ISR Patterns<br/>
       <br/>
     </td>
   </tr>
