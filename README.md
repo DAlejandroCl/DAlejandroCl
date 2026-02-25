@@ -40,11 +40,7 @@ I have developed multi-view applications using React Router, integrated and docu
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" style="vertical-align:middle;" />
-  <span style="display:inline-block; height:32px; border-left:1px solid #000; margin:0 10px;"></span>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" style="vertical-align:middle;" />
-  <span style="display:inline-block; height:32px; border-left:1px solid #000; margin:0 10px;"></span>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/iconsi=react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,git,github,vite,vscode"/>   
 </p>
 
 <p align="center">
