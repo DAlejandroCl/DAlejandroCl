@@ -122,8 +122,9 @@ Proposes a holistic security framework for financial mobile applications in Colo
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlejandroCl&theme=github_dark" height="155"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAlejandroCl&theme=github_dark" height="155"/>
   <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="155"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlejandroCl&theme=github_dark" height="155"/>
+  
 </p>
 
 ---
