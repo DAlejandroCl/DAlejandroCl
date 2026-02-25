@@ -138,15 +138,15 @@ Proposes a holistic security framework for financial mobile applications in Colo
   <tr>
     <td valign="top">
       <br/>
-      <b>React Patterns:</b> Custom Hooks &amp; Composition Strategies, <code>useReducer</code> &amp; Complex State Orchestration, Context API Architecture Design, Memoization &amp; Performance Optimization<br/><br/>
-      <b>Server &amp; Auth:</b> React Query &amp; Server State Management, Authentication, Authorization &amp; RBAC<br/><br/>
-      <b>Fullstack:</b> PERN &amp; MERN Stack Development<br/>
+      <code>React Patterns</code> &nbsp;·&nbsp; Custom Hooks &amp; Composition Strategies, <code>useReducer</code> &amp; Complex State Orchestration, Context API Architecture Design, Memoization &amp; Performance Optimization<br/><br/>
+      <code>Server &amp; Auth</code> &nbsp;·&nbsp; React Query &amp; Server State Management, Authentication, Authorization &amp; RBAC<br/><br/>
+      <code>Fullstack</code> &nbsp;·&nbsp; PERN &amp; MERN Stack Development<br/>
       <br/>
     </td>
     <td valign="top">
       <br/>
-      <b>Next.js 14:</b> Fundamentals &amp; Project Structure, App Router Architecture, Server Actions &amp; Server Components<br/><br/>
-      <b>Rendering Strategies:</b> Modern React Rendering Paradigms, SSR, SSG &amp; ISR Patterns<br/>
+      <code>Next.js 14</code> &nbsp;·&nbsp; Fundamentals &amp; Project Structure, App Router Architecture, Server Actions &amp; Server Components<br/><br/>
+      <code>Rendering Strategies</code> &nbsp;·&nbsp; Modern React Rendering Paradigms, SSR, SSG &amp; ISR Patterns<br/>
       <br/>
     </td>
   </tr>
