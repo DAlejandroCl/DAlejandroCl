@@ -1,4 +1,4 @@
-<h1 align="center">Diego Alejandro Clavijo</h1>
+<h1 align="center">Hi 🖐️, I'm Diego Alejandro Clavijo</h1>
 <h3 align="center">Frontend Engineer | Systems & Computer Engineer</h3>
 
 <p align="center">
@@ -14,11 +14,15 @@ Designing scalable, maintainable and user-centered web applications with modern 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=zustand,prisma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" width="0" />
+</p>
+
+<p align="center">
+Frontend Architecture • State Management • REST API Integration • Type Safety • Component-Driven Design
 </p>
 
 ---
@@ -70,12 +74,11 @@ Proposes a holistic security framework for financial mobile applications, combin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DAlejandroCl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=DAlejandroCl&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlejandroCl&layout=compact&theme=github_dark&hide_border=true" height="140"/>
+Consistent contribution and continuous project development.
 </p>
 
 ---
